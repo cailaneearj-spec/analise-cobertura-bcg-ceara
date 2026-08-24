@@ -32,3 +32,13 @@ O projeto foi desenvolvido em algumas etapas:
 O dashboard foi desenvolvido no Power BI para facilitar a visualização e comparação dos dados ao longo do período analisado.
 
 Ele permite acompanhar a cobertura média da BCG, a evolução entre 2018 e 2022, comparar os municípios com maiores e menores médias e filtrar os resultados por município e ano.
+
+## Dashboard
+
+O dashboard foi desenvolvido...
+
+### Visão geral do dashboard
+
+![Dashboard - Cobertura Vacinal BCG](Captura%20de%20tela%202026-08-21%20153517.png)
+
+
