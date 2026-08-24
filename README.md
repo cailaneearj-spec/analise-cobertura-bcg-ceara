@@ -39,17 +39,17 @@ O dashboard foi desenvolvido...
 
 ### Visão geral do dashboard
 
-![Dashboard - Cobertura Vacinal BCG](Captura%20de%20tela%202026-08-21%20153517.png)
+![Dashboard - Cobertura Vacinal BCG](imagens/Captura%20de%20tela%202026-08-21%20153517.png)
 
 ### Detalhes do dashboard
 
-![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153554.png)
+![Detalhes do Dashboard](imagens/Captura%20de%20tela%202026-08-21%20153554.png)
 
-![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153619.png)
+![Detalhes do Dashboard](imagens/Captura%20de%20tela%202026-08-21%20153619.png)
 
-![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153645.png)
+![Detalhes do Dashboard](imagens/Captura%20de%20tela%202026-08-21%20153645.png)
 
-![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153706.png)
+![Detalhes do Dashboard](imagens/Captura%20de%20tela%202026-08-21%20153706.png)
 
 ## Principais resultados
 
