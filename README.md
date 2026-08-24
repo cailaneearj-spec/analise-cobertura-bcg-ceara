@@ -64,7 +64,6 @@ A análise permitiu acompanhar as mudanças na cobertura da BCG entre 2018 e 202
 ## Fonte dos dados
 
 Os dados utilizados neste projeto são públicos e foram obtidos por meio do DATASUS, considerando a cobertura vacinal da BCG nos municípios do Ceará entre 2018 e 2022.
-![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153747.png)
 
 
 
