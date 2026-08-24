@@ -50,7 +50,23 @@ O dashboard foi desenvolvido...
 ![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153645.png)
 
 ![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153706.png)
+
+## Principais resultados
+
+A análise permitiu acompanhar as mudanças na cobertura da BCG entre 2018 e 2022 e observar as diferenças entre os municípios.
+
+- Foram analisados os **184 municípios do Ceará**.
+- A base final ficou com **920 registros**.
+- A cobertura média geral encontrada foi de **100,64%**.
+- Houve queda da cobertura média entre 2018 e 2020, seguida de aumento em 2021 e um resultado mais elevado em 2022.
+- Durante a conferência da base, foram encontrados valores de cobertura acima de 100%, que foram mantidos conforme os dados originais do DATASUS.
+
+## Fonte dos dados
+
+Os dados utilizados neste projeto são públicos e foram obtidos por meio do DATASUS, considerando a cobertura vacinal da BCG nos municípios do Ceará entre 2018 e 2022.
 ![Detalhes do Dashboard](Captura%20de%20tela%202026-08-21%20153747.png)
+
+
 
 
 
