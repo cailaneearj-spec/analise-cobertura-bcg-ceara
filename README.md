@@ -41,4 +41,8 @@ O dashboard foi desenvolvido...
 
 ![Dashboard - Cobertura Vacinal BCG](Captura%20de%20tela%202026-08-21%20153517.png)
 
+### Detalhes do dashboard
+
+
+
 
